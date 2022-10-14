@@ -6,3 +6,5 @@ Hope it would be a great start to me :)
 let me keep exploring :))
 
 I'm trying to do some changes to my current file.
+
+This line is first pushed into the new branch(like maintaining new branch) and then attached with the main branch.
